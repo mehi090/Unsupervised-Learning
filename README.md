@@ -68,19 +68,7 @@ The Iris dataset was introduced by Ronald A. Fisher in 1936 in the paper "The Us
 - Scikit-learn
 - SciPy
 
-## How to Run
 
-1. Clone the repository:
-
-git clone https://github.com/yourusername/repository-name.git
-
-2. Install dependencies:
-
-pip install -r requirements.txt
-
-3. Run the script:
-
-python Iris_classification.py
 
 ## Skills Demonstrated
 
